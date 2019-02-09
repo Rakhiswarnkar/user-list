@@ -1,0 +1,22 @@
+.userList{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #eaeaea;
+    justify-content: space-evenly;
+    height: 100%;
+}
+html, body, #root, .main-container{
+    height: 100%;
+    font-family: 'Lateef';font-size: 22px;
+}
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    padding: 17px;
+}
+input{
+    margin-left: 5px;
+    border: none;
+    border-bottom: 1px solid;
+    outline: none;
+}
