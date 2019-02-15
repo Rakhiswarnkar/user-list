@@ -5,7 +5,7 @@
     justify-content: space-evenly;
     height: 100%;
 }
-html, body, #root, .main-container{
+body, #root, .main-container{
     height: 100%;
     font-family: 'Lateef';font-size: 22px;
 }
